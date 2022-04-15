@@ -1,12 +1,12 @@
-The SelaCoin WhitePaper
+<h1> The SelaCoin WhitePaper</h1> 
 
 
-what is SelaCoin ?
+<h2>what is SelaCoin ?</h2>
 SelaCoin (SELA) is a cryptocurrency as well as a blockchain focused on privacy and speed of the entire network.
 
 
-The problems in current blockchains: 
-A - Minimum Conformations
+<h2>The problems in current blockchains: </h2>
+<h3>A - Minimum Conformations</h3>
 all current blockchains are slow compared to digital assets like banks or similar solutions.
 
 All current blockchains have a minimum transaction time till any given transaction is permanently written into the blockchain.
@@ -19,7 +19,7 @@ The second aspect of this is of course environmental - the ever growing need to 
 
 SelaCoin addresses this by lowering the min conformation time to 2 conformations - and obviously empowering pos as well as pow to allow virtually anyone to mine or stake SelaCoins without the need for entire servers just to mine.
 
-B - Transaction Amount Per minute limits based on tx size
+<h3>B - Transaction Amount Per minute limits based on tx size</h3>
 
 imagine an enormous excel sheet - with each cell having a maximum size of several kb - then imagine having to copy paste those cells to another excel - each such transaction will “feed” on ram memory and the larger the size of information each such transaction carries the harder it will be to send it fast and secure.
 
@@ -27,7 +27,7 @@ A second problem that arises regarding this issue is that on slower internet con
 
 SelaCoin Addresses that by keeping things simple and small in terms of tx size - since cryptocurrency is just that - a crypto currency - and as such should be both easy on the network side as well as on the space and cpu side. 
 
-C - The price to generate new transactions 
+<h3>C - The price to generate new transactions </h3>
 
 Alot of cryptocurrencies both old and new use a price per action on the blockchain.
 
@@ -39,7 +39,7 @@ And how can we forget the famous 143 ether to do a single transaction that occur
 
 SelaCoin solves this easily by capping the maximum amount that will ever need to be paid to write a transaction to the blockchain.
 
-D - Anonymity and security 
+<h3>D - Anonymity and security </h3>
 
 alot of coins have quite alot of security issues - for example the ability to guess the seeed words and hack accounts or just wallets that enforce us to over secure our own digital assstes causing us to forget passwords and loose funds.
 
