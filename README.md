@@ -1,4 +1,6 @@
-![Alt Text]
+![alt text](https://github.com/wattson-coder/selacoin-white-paper/blob/main/sela.png "SelaCoin")
+
+
 <h1> The SelaCoin WhitePaper</h1> 
 
 
