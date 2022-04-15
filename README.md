@@ -57,4 +57,4 @@ SelaCoin Is a project built after many years of looking at the problems that aro
 
 
 
-
+https://github.com/wattson-coder/selacoin-white-paper/blob/main/sela.png
