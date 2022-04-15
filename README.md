@@ -1,3 +1,4 @@
+![Alt Text]
 <h1> The SelaCoin WhitePaper</h1> 
 
 
