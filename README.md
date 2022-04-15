@@ -56,5 +56,5 @@ As we see it - digital currency should be easy and fast to use and not the way i
 SelaCoin Is a project built after many years of looking at the problems that arose in other crypto projects. It is Maintained by pablo rotem, shadi baksheet and wisam saleh.
 
 
-
-https://github.com/wattson-coder/selacoin-white-paper/blob/main/sela.png
+![alt text](https://github.com/wattson-coder/selacoin-white-paper/blob/main/CoinPaprika_SELA_price_ytd_2022-04-15.jpeg "SelaCoin price")
+https://coinpaprika.com/coin/sela-selacoin/
