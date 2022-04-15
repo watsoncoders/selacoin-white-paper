@@ -1,12 +1,12 @@
-The SelaCoin WhitePaper
+#The SelaCoin WhitePaper
 
 
-what is SelaCoin ?
+##what is SelaCoin ?
 SelaCoin (SELA) is a cryptocurrency as well as a blockchain focused on privacy and speed of the entire network.
 
 
-The problems in current blockchains: 
-A - Minimum Conformations
+###The problems in current blockchains: 
+###A - Minimum Conformations
 all current blockchains are slow compared to digital assets like banks or similar solutions.
 All current blockchains have a minimum transaction time till any given transaction is permanently written into the blockchain.
 One problem is that a high number of conformations greatly increases the need to mine faster, just to confirm a given transaction.
